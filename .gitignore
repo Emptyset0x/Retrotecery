@@ -18,7 +18,8 @@ texturepacks
 usercache.json
 usernamecache.json
 vintagefix
+crafttweaker.log
 
 !/config/Universal Tweaks - Tweaks.cfg
 !/config/quark.cfg
-crafttweaker.log
+!/config/rftgumod
