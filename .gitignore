@@ -19,7 +19,12 @@ usercache.json
 usernamecache.json
 vintagefix
 crafttweaker.log
+/config/tool_progression/tools.cfg
+/config/tool_progression/materials.cfg
+/config/tool_progression/blocks.cfg
+/hei_bookmarks.ini
 
 !/config/Universal Tweaks - Tweaks.cfg
 !/config/quark.cfg
 !/config/rftgumod
+!/config/tool_progression
