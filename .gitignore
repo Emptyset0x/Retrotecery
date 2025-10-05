@@ -31,5 +31,6 @@ patchouli_data.json
 !/config/rftgumod
 !/config/tool_progression
 !/config/unidict
+!/config/buildcraft
 !/config/forestry
 !/config/railcraft
