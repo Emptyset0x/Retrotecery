@@ -23,6 +23,7 @@ crafttweaker.log
 /config/tool_progression/materials.cfg
 /config/tool_progression/blocks.cfg
 /hei_bookmarks.ini
+patchouli_data.json
 
 !/config/Universal Tweaks - Tweaks.cfg
 !/config/quark.cfg
@@ -30,3 +31,4 @@ crafttweaker.log
 !/config/tool_progression
 !/config/unidict
 !/config/forestry
+!/config/railcraft
