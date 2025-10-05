@@ -24,6 +24,7 @@ crafttweaker.log
 /config/tool_progression/blocks.cfg
 /hei_bookmarks.ini
 patchouli_data.json
+/journeymap
 
 !/config/Universal Tweaks - Tweaks.cfg
 !/config/quark.cfg
